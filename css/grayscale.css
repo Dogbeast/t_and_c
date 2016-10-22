@@ -313,6 +313,9 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+  #operation-hours {
+    visibility: hidden;
+  }
 }
 footer {
   padding: 50px 0;
@@ -384,4 +387,14 @@ span.betweenh2h3
 .row {
   padding-top: 200px;
   padding-bottom: 200px;
+}
+#operation-hours {
+  position: fixed; 
+  z-index: 1;
+  top: 20%; 
+  right: 2%;
+  color: black;
+}
+.hidden {
+  visibility: hidden;
 }
