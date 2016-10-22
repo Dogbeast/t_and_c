@@ -223,6 +223,18 @@ a:focus {
   padding-top: 100px;
   color: black;
 }
+.hours-section {
+  width: 100%;
+  padding-top: 200px;
+  padding: 50px 0;
+  color: black;
+  background: url(../img/paris.png) no-repeat center center scroll;
+  background-color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 .about-section {
   width: 100%;
   padding: 50px 0;
@@ -368,6 +380,7 @@ span.betweenh2h3
 }
 #copyright{
   margin-top: 20px;
+  color: #800020;
 }
 #footer {
   color: black;
