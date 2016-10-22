@@ -57,7 +57,7 @@ a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: black;
+  background-color: #800020;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -370,12 +370,8 @@ span.betweenh2h3
 {
   font-size: 1.25em;
 }
-#envirostar, #envirostarText
-{
-  display: inline-block;
-  vertical-align: top;
-}
-#envirostar{
+
+#envirostar, #wash {
   float: left;
 }
 #copyright{
