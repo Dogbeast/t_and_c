@@ -313,6 +313,8 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+}
+@media (max-width: 1025px) {
   #operation-hours {
     visibility: hidden;
   }
